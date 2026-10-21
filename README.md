@@ -122,6 +122,6 @@ Sales_Analysis_Project/
 
 ## Author
 
-**Name:** _Your name_
+**Name:** Vaishnavi Shankar Patil.
 **Course:** CoachX Data Analytics
 **Date:** October 2026
